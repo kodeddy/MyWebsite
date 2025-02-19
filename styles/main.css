@@ -1,0 +1,48 @@
+body {
+    background-color: rgba(169, 239, 216, 0.695);
+    justify-content: center;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.likes {
+    color: green;
+}
+
+.dislikes {
+    color: red;
+}
+
+p {
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+div {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+}
+
+img {
+    max-width: 100px;
+    max-height: 100px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
